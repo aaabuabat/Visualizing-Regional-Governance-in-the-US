@@ -1,5 +1,8 @@
 This work has been done by: 
-Mohammed Aldosari  
-Abdulelah Abuabat  
-Taylor Neal  
-Steven Johnston
+1- Mohammed Aldosari,
+2- Abdulelah Abuabat, 
+3- Taylor Neal,
+4- Steven Johnston
+
+
+Website: http://picso.org:8889/~classinfovis2017fall/projects/group-14/rigo.html
