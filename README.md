@@ -5,5 +5,5 @@ This work has been done by:
 4- Steven Johnston
 
 
-Website: http://picso.org:8889/~classinfovis2017fall/projects/group-14/rigo.html
-* This work under maintenance, the final version will be available soon. 
+Link: http://picso.org:8889/~classinfovis2017fall/projects/group-14/rigo.html
+
